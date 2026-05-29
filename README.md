@@ -1,4 +1,4 @@
-My name
+## My name
 Ibrahim P. Juma
 
 ## My project name
